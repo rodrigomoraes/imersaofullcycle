@@ -1,0 +1,3 @@
+comando para entrar no container do appbank
+
+sudo docker exec -it appbank bash
