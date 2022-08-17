@@ -12,7 +12,7 @@ type CreditCard struct {
 	Number          string
 	ExpirationMonth int32
 	ExpirationYear  int32
-	Cvv             int32
+	CVV             int32
 	Balance         float64
 	Limit           float64
 	CreatedAt       time.Time
