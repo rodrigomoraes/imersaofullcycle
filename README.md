@@ -10,10 +10,7 @@
 
 ## Show your support
 
-Give a ⭐️ if this project helped you!
+De uma ⭐️ Se este projeto lhe ajudou!
 
-
-
-thnaks 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
